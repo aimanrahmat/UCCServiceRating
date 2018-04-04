@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">UCC Service Rating</string>
+    <string name="title1">COUNTER</string>
+    <string name="title2">RATING &amp; REVIEW</string>
+    <string name="title3">CONFIRMATION</string>
+    <string name="title4">COUNTER INFO</string>
+    <string name="title5">STATISTICS</string>
+    <string name="title6">ABOUT</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_navbar">NavbarActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nav_stats">nav_stats</string>
+    <string name="tab_text_1">Daily</string>
+    <string name="tab_text_2">Overall</string>
+    <string name="tab_text_3">Monthly</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_page_stats">PageStats</string>
+
+</resources>
